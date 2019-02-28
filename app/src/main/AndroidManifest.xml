@@ -10,6 +10,6 @@
                  android:roundIcon="@mipmap/ic_launcher_round"
                  android:supportsRtl="true"
                  android:theme="@style/AppTheme">
-        <activity android:name=".RecyclerviewActivity"/>
+        <activity android:name=".RecyclerViewActivity"/>
     </application>
 </manifest>
