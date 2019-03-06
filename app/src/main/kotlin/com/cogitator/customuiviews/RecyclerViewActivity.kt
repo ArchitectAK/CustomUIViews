@@ -12,5 +12,4 @@ class RecyclerViewActivity : AppCompatActivity() {
 
     }
 
-
 }

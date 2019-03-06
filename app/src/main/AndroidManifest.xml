@@ -11,5 +11,6 @@
                  android:supportsRtl="true"
                  android:theme="@style/AppTheme">
         <activity android:name=".RecyclerViewActivityy"/>
+        <activity android:name=".RecyclerViewActivity"/>
     </application>
 </manifest>
